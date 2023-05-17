@@ -13,7 +13,7 @@
     <artifactId>testserver</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>17</java.version>
     </properties>
     <packaging>jar</packaging> <!-- Змінено формат збирання на WAR -->
 
